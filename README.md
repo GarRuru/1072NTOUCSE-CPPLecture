@@ -6,6 +6,7 @@
 
 
 快速目錄：  
+[換個IDE來寫程式吧](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p0-Better%20IDE.pdf)  
 [Stack 應用](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p3-4%20splitted.pdf)  
 [Linked List入門](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p5-Linked%20List%20Intro.pdf)  
 [STL Library介紹、C++入門](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p7-Advanced%20CPP.pdf)  
