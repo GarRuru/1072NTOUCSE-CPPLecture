@@ -8,9 +8,9 @@
 PDF檔案建議下載至本機，並使用Adobe Reader等軟體，以PageUP/PageDown切換上下頁，才能夠看到投影片中的動畫呈現。  
 
 快速目錄：  
-[換個IDE來寫程式吧](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p0-Better%20IDE.pdf)  
-[Stack 應用](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p3-4%20splitted.pdf)  
-[Linked List入門](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p5-Linked%20List%20Intro.pdf)  
+[換個IDE來寫程式吧-VSCode + GCC](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p0-Better%20IDE.pdf)  
+[Stack 應用](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p3-4%20splitted.pdf)  (搭配Q3-4 p與q的邂逅)  
+[Linked List入門](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p5-Linked%20List%20Intro.pdf)  (搭配Q5-1 List Maker)   
 [STL Library介紹、C++入門](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p7-Advanced%20CPP.pdf)  
 [超快速認識遞迴與DP](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p9-QuickLook-DPandRecursive.pdf)  
 [期末總複習-C++物件導向概念統整](https://github.com/GarRuru/1072NTOUCSE-CPPLecture/blob/master/p11-OOPforbeginner.pdf)  
